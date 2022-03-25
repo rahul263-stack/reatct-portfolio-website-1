@@ -2,7 +2,7 @@ import React from 'react'
 import './test.css'
 const test = () => {
   return (
-    <section id='testimonials'>Testimonials</section>
+    <section id='testimonials'></section>
   )
 }
 

@@ -5,9 +5,9 @@ import {FaKaggle} from 'react-icons/fa'
 const HeaderSocials = () => {
   return (
     <div className='header_socials'>
-        <a href='https://linkdin.com' target="_blank"><BsLinkedin/></a>
-        <a href='https://github.com'  target="_blank"><FaGithub/></a>
-        <a href='https://kaggle.com'  target="_blank"><FaKaggle/></a>
+        <a href='https://www.linkedin.com/in/rahul-kumar-1ba550190/' target="_blank"><BsLinkedin/></a>
+        <a href='https://github.com/rahul263-stack'  target="_blank"><FaGithub/></a>
+        <a href='https://www.kaggle.com/quantum360'  target="_blank"><FaKaggle/></a>
     </div>
   )
 }
