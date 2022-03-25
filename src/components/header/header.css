@@ -68,7 +68,7 @@ header{
 
 /* ======== MEDIA queries (medium devices) ========= */
 @media screen and (max-width: 1024px) {
-    headr{
+    header{
         height: 68vh;
     }
    
