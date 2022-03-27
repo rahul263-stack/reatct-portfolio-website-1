@@ -1,7 +1,7 @@
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This is a react portfolio website for practice purpose only
+This is a react portfolio website for practice of react js
 ## Available Scripts
 
 In the project directory, you can run:
